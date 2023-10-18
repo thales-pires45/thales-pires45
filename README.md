@@ -1,5 +1,3 @@
-
-
 <!--
 **thales-pires45/thales-pires45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -65,18 +63,11 @@ Here are some ideas to get you started:
 </div>
 
 <h1>📱 Contact</h1>
-<div style="display: inline_block"> <br> 
-  <a href = "mailto:thalespires45@hotmail.com">
-    <img align="center" height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/thales-viana-pires-701a561b5/" target="_blank">
-    <img align="center" height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/thalesvpires/" target="_blank">
-    <img align="center" height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="tel:(47) 9 9135-8072" target="_blank">
-    <img align="center" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>
+<div>  
+  <a href="mailto:thalesgopires548@gmail.com" target="_blank"><img align="center" height="30" alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thales-viana-pires-701a561b5/" target="_blank"><img align="center" height="30" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/thalesvpires/" target="_blank"><img align="center" height="30" alt="instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="tel:(47) 9 9135-8072" target="_blank"><img align="center" height="30" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
 
