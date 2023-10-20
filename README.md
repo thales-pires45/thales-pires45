@@ -12,7 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
+###
+<h1>👋 Hi, I'm Thales Pires</h1>
+
+- <a href="https://thales-pires45.github.io/js-developer-portfolio/" target="_blank">🔗 My Portfolio</a> 
+- 💚 Full Stack Developer
+- 🧐 I'm currently open to work
+- 🔭 Feel free to take a look at my repositories
+- 📚 Currently studying Js, Node.js & React
+  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=thales-pires45&show_icons=true&theme=dark"
@@ -35,15 +44,6 @@ Here are some ideas to get you started:
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thales-pires45&show_icons=true" />
 </picture>
--->
-###
-<h1>👋 Hi, I'm Thales Pires</h1>
-
-- <a href="https://thales-pires45.github.io/js-developer-portfolio/" target="_blank">🔗 My Portfolio</a> 
-- 💚 Full Stack Developer
-- 🧐 I'm currently open to work
-- 🔭 Feel free to take a look at my repositories
-- 📚 Currently studying Js, Node.js & React
 
 <h1>🚀 Skills</h1>
 
@@ -58,8 +58,8 @@ Here are some ideas to get you started:
   <img align="center" height="30" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" height="30" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" height="30" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" height="30" alt="GitHub" src="https://cdn.icon-icons.com/icons2/639/PNG/96/github_social_media_logo_icon-icons.com_59103.png">
-  <img align="center" height="30" alt="GIT" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/git_plain_wordmark_logo_icon_146508.png">
+<!--   <img align="center" height="30" alt="GitHub" src="https://cdn.icon-icons.com/icons2/639/PNG/96/github_social_media_logo_icon-icons.com_59103.png">
+  <img align="center" height="30" alt="GIT" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/git_plain_wordmark_logo_icon_146508.png"> -->
 </div>
 
 <h1>📱 Contact</h1>
