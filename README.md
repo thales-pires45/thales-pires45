@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>👋 Hi, I'm Thales Pires</h1>
 
 - <a href="https://thales-pires45.github.io/js-developer-portfolio/" target="_blank">🔗 My Portfolio</a> 
-- 💚 Full Stack Developer
+- 💚 Developer
 - 🧐 I'm currently open to work
 - 🔭 Feel free to take a look at my repositories
 - 📚 Currently studying Js, Node.js & React
